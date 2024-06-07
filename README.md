@@ -1,5 +1,3 @@
-Sure, here's a README.md file for your project:
-
 # Cryptocurrency Price Alerts
 
 This is a React application that allows users to set alerts for cryptocurrency prices. Users can create alerts with a target price and direction (up or down), and the application will notify them when the cryptocurrency price reaches the specified threshold.
